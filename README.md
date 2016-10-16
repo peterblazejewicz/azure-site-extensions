@@ -5,7 +5,11 @@ At the moment it works only as the private extension.
 
 ## Installation
 
-Open your Kudu service resource exporer and navigate to extensions directory. Then drag and drop `NgCliExtension` folder and restart web application instance.
+Open your Kudu service resource exporer and navigate to extensions directory:
+```
+D:\home\site\SiteExtensions\
+```
+Then drag and drop `NgCliExtension` folder and restart web application instance.
 
 ## Author
 

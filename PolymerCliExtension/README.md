@@ -23,8 +23,6 @@ Once in that directory:
 install.cmd
 ```
 
-- restart your web application instance - this will install variables from transformation file definition
-
 ## Author
 
 @peterblazejewicz
